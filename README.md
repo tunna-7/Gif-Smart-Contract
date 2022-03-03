@@ -2,7 +2,8 @@
 Smart Contract made in anchor (Solana Framework)
 
 ## For Reference Only.....
-![image](https://user-images.githubusercontent.com/66274690/156376024-1f3badc5-84ce-4975-8d26-dbdd03099812.png)
+![image](https://user-images.githubusercontent.com/66274690/156641155-1df7ed5c-b0e5-4708-97f8-86f6397260b8.png)
+
 
 ##
 
